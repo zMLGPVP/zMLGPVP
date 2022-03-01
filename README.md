@@ -5,4 +5,5 @@
 - 📫 Contato: zMLGPVP#0830  / zmlgpvp@gmail.com
 - 👀 trabalhando em projetos grandes
 - [![Twitter Badge](https://img.shields.io/badge/-@zmlgpvp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/zMLGPVP)](https://twitter.com/zMLGPVP) 
+- https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
