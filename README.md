@@ -1,4 +1,4 @@
-.👨🏻‍💻 Sobre Mim
++👨🏻‍💻 Sobre Mim
 
 🎓   Estudando mais ainda sobre o JAVA
 
@@ -10,7 +10,7 @@
 
 ☕   Uma xícara de café pode ser a solução de todo estresse.
 
-.🛠 Skills
++🛠 Skills
 
 🛢   MongoDB | MySQL | SQL
 
