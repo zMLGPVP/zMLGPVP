@@ -1,10 +1,10 @@
-### Olá! 👋
-
-- 🔭  Hoje trabalho com JAVA (Bukkit, BungeeCord,MySQL)
-- 🌱 Estudando mais ainda sobre o JAVA
-- 📫 Contato: zMLGPVP#0830  / zmlgpvp@gmail.com
-- 🔥 Trabalhando em projetos grandes
-- ⚒️  Dono de empresa...
-
-     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+👨🏻‍💻 Sobre Mim
+🎓   Cursando Analise e Desenvolvimento de Sistemas.
+💼   Back-end developer.
+🌱   Apaixonado em tecnologia como um todo.
+✍️   Estudando e se mantendo atualizado sempre.
+☕   Uma xícara de café pode ser a solução de todo estresse.
+🛠 Skills
+💻   Node | Python | JavaScript | HTML | CSS | C | C#
+🛢   MongoDB | Postegres | SQL Server
+🔧   Visual Studio Code | Intellij | Visual Studio | Git
