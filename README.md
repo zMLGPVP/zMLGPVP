@@ -8,6 +8,6 @@
 
 * 🛠 Skills
 
-- 🛢 MySQL| SQL
+- 🛢 MySQL | SQL
 - 🔧 Intellij
 
