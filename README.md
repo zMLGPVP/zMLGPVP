@@ -1,9 +1,10 @@
 👨🏻‍💻 Sobre Mim
-🎓   Cursando Analise e Desenvolvimento de Sistemas.
 
-💼   Back-end developer.
+🎓   Estudando mais ainda sobre o JAVA
 
-🌱   Apaixonado em tecnologia como um todo.
+💼   Hoje trabalho com JAVA (Bukkit), developer.
+
+📫 Contato: zMLGPVP#0830  / zmlgpvp@gmail.com
 
 ✍️   Estudando e se mantendo atualizado sempre.
 
@@ -11,9 +12,7 @@
 
 🛠 Skills
 
-💻   Node | Python | JavaScript | HTML | CSS | C | C#
+🛢   MongoDB | MySQL | SQL
 
-🛢   MongoDB | Postegres | SQL Server
-
-🔧   Visual Studio Code | Intellij | Visual Studio | Git
+🔧   Intellij
 
