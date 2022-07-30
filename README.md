@@ -1,8 +1,8 @@
-👨🏻‍💻 Sobre Mim
+.👨🏻‍💻 Sobre Mim
 
-.🎓   Estudando mais ainda sobre o JAVA
+🎓   Estudando mais ainda sobre o JAVA
 
-.💼   Hoje trabalho com JAVA (Bukkit), developer.
+💼   Hoje trabalho com JAVA (Bukkit), developer.
 
 📫 Contato: zMLGPVP#0830  / zmlgpvp@gmail.com
 
@@ -10,7 +10,7 @@
 
 ☕   Uma xícara de café pode ser a solução de todo estresse.
 
-🛠 Skills
+.🛠 Skills
 
 🛢   MongoDB | MySQL | SQL
 
