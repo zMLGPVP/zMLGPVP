@@ -8,7 +8,6 @@
 
 * 🛠 Skills
 
-🛢   MongoDB | MySQL | SQL
-
-🔧   Intellij
+- 🛢 MySQL| SQL
+- 🔧 Intellij
 
