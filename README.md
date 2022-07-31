@@ -8,6 +8,6 @@
 
 * 🛠 Skills
 
-- 🛢 MySQL | SQL
-- 🔧 Intellij
+- 🛢 MySQL / SQL
+- 🔧 Intellij / Eclipse
 
