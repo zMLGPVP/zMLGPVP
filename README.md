@@ -1,3 +1,3 @@
-👨🏻‍💻 Sobre Mim
+Owner Laner Studio's 
 
 
