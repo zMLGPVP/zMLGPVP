@@ -1,3 +1,3 @@
-Owner Laner Studio's 
+
 
 
